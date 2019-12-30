@@ -1,6 +1,6 @@
 {
   "name": "todo-hapi-postgres",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Node/Hapi + Postgres implementation of the Todo-Backend API spec",
   "main": "lib/index.js",
   "scripts": {
